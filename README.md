@@ -20,3 +20,17 @@ listas ordenadas
     2. segundo sub elemento
 + quinto elemento
 + sexto elemento
+
+esto es un parrafo szrxdtcfyvgubhiujoipko`fxdfzsdxfdgcfhgvjhuiojiyitfuyrdxgcvbjhkjhiouytfdyfdxgcv` dfgtyyugfvbhjuytfvbghytfdcvbhjuytfvghyutrfghytrfdgytrfvbghytfcvbhytfvbhytfcvbhfcvbhgfvbhgfvbhgfvbgvhgvbg
+
+qwertyuiokjhgfsdfghjkl,mnbvcxcfghjjuytrdcvhgvhyfdxcvghdxcvghdxcvbhfdc bhhhdyhuuhgwrongrngwrognerognrgonegonrboenbeobgnwrognwreoghwrogwrogrjwrfojwrgohwnrgoijwrfiojwrgoiwrjgworijwroigjwrogjwrfjwrgowirjgworigjwroigjwroigjwrigjwroigwrgoinwrgomgoiwngoringrwoinwrobnwrobnwroinwbnwroinwboiwrbnworinbwroibnwrobinwrboinwrobirw
+
+``
+    <html>
+    <head>
+    <body>
+        <p> esto es un codico de html </p>
+    <body>
+``
+
+[link](https://www.fje.edu/ca/jesuites-bellvitge "enlace ala wep del cole")
