@@ -25,12 +25,12 @@ esto es un parrafo szrxdtcfyvgubhiujoipko`fxdfzsdxfdgcfhgvjhuiojiyitfuyrdxgcvbjh
 
 qwertyuiokjhgfsdfghjkl,mnbvcxcfghjjuytrdcvhgvhyfdxcvghdxcvghdxcvbhfdc bhhhdyhuuhgwrongrngwrognerognrgonegonrboenbeobgnwrognwreoghwrogwrogrjwrfojwrgohwnrgoijwrfiojwrgoiwrjgworijwroigjwrogjwrfjwrgowirjgworigjwroigjwroigjwrigjwroigwrgoinwrgomgoiwngoringrwoinwrobnwrobnwroinwbnwroinwboiwrbnworinbwroibnwrobinwrboinwrobirw
 
-``
+```
     <html>
     <head>
     <body>
         <p> esto es un codico de html </p>
     <body>
-``
+```
 
-[link](https://www.fje.edu/ca/jesuites-bellvitge "enlace ala wep del cole")
+[link](https://www.fje.edu/ca/jesuites-bellvitge "enlace ala wep del cole")x
