@@ -46,5 +46,7 @@ qwertyuiokjhgfsdfghjkl,mnbvcxcfghjjuytrdcvhgvhyfdxcvghdxcvghdxcvbhfdc bhhhdyhuuh
 ###### Examen
 
 -[ ] Opcion A
+
 -[X] Opcion B
+
 -[ ] Opcion C
