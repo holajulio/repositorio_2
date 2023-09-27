@@ -35,7 +35,7 @@ qwertyuiokjhgfsdfghjkl,mnbvcxcfghjjuytrdcvhgvhyfdxcvghdxcvghdxcvbhfdc bhhhdyhuuh
 
 [link](https://www.fje.edu/ca/jesuites-bellvitge "enlace ala wep del cole")
 
-![imagen del planeta](https://github.com/holajulio/repositorio_2/blob/main/descarga.jpg "titulo opcional)
+![imagen del planeta](https://github.com/holajulio/repositorio_2/blob/main/descarga.jpg "titulo opcional")
 
 
 |titulo |alaineacion | precios|
