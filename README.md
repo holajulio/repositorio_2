@@ -33,4 +33,6 @@ qwertyuiokjhgfsdfghjkl,mnbvcxcfghjjuytrdcvhgvhyfdxcvghdxcvghdxcvbhfdc bhhhdyhuuh
     <body>
 ```
 
-[link](https://www.fje.edu/ca/jesuites-bellvitge "enlace ala wep del cole")x
+[link](https://www.fje.edu/ca/jesuites-bellvitge "enlace ala wep del cole")
+
+![imagen del planeta](https://github.com/holajulio/repositorio_2/blob/main/descarga.jpg"titulo opcional)
